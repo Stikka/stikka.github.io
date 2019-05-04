@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<hotpot-jquiz-file>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <rdf:Description rdf:about="">
+    <dc:creator>Nastassia</dc:creator>
+    <dc:title>Kviz</dc:title>
+  </rdf:Description>
+</rdf:RDF><version>6</version>
+
+<data>
+<title>Kviz</title>
+
+<timer><seconds>60</seconds><include-timer>0</include-timer></timer>
+
+<reading>
+<include-reading>0</include-reading>
+<reading-title></reading-title>
+<reading-text></reading-text>
+
+</reading>
+
+<questions><question-record><question>Pogledaj sljede&amp;#x0107;u animaciju. Imamo dvije prazne limenke. Jednu napunimo &amp;#x017E;eljeznim kuglicama, a drugu ostavimo praznu. Obje limenke stavimo na tlo i svaku &amp;#x0161;utnemo nogom. Opazit &amp;#x0107;emo da se prazna limenka lak&amp;#x0161;e pokrene iz stanja mirovanja u stanje gibanja dok se limenka napunjena &amp;#x017E;eljezom pritom samo malo pomakne. Kako bismo to objasnili?
+&amp;#x003C;br&amp;#x003E;&amp;#x003C;object codebase=&quot;Pitanje 1.swf&quot; type=&quot;application/x-shockwave-flash&quot; width=&quot;600&quot; height=&quot;375&quot; data=&quot;Pitanje 1.swf&quot;&amp;#x003E; &amp;#x003C;param name=&quot;movie&quot; value=&quot;Pitanje 1.swf&quot; /&amp;#x003E;&amp;#x003C;a href=&quot;Pitanje 1.swf&quot; title=&quot;Puna i prazna limenka&quot;&amp;#x003E;Pitanje 1.swf&amp;#x003C;/a&amp;#x003E;&amp;#x003C;/object&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>Limenka napunjena &amp;#x017E;eljezom ima manju tromost.</text><feedback>Neto&amp;#x010D;no. 
+Puna limenka ne mo&amp;#x017E;e imati manju tromost od prazne limenke jer prazna ni&amp;#x0161;ta ne sadr&amp;#x017E;i pa je masa pune limenke ve&amp;#x0107;a od mase prazne limenke.</feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Prazna limenka ima ve&amp;#x0107;u tromost.</text><feedback>Neto&amp;#x010D;no. 
+Prazna limenka ima manju masu od pune limenke pa stoga ne mo&amp;#x017E;e imati ve&amp;#x0107;u tromost.</feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Limenka napunjena &amp;#x017E;eljezom ima ve&amp;#x0107;u tromost.</text><feedback>To&amp;#x010D;no. 
+Puna limenka se vi&amp;#x0161;e opire promjeni iz stanja mirovanja u stanje gibanja, a zato &amp;#x0161;to ima ve&amp;#x0107;u masu od prazne limenke, ima i ve&amp;#x0107;u tromost.</feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Prvo smo &amp;#x0161;utnuli limenku napunjenu &amp;#x017E;eljezom, a zatim praznu.</text><feedback>Neto&amp;#x010D;no. 
+Ako pa&amp;#x017E;ljivo pogleda&amp;#x0161; animaciju, vidjet &amp;#x0107;e&amp;#x0161; da smo prvo &amp;#x0161;utnuli praznu limenku. Me&amp;#x0111;utim, nije nam bitan njihov redoslijed ve&amp;#x0107; je bitno usporediti mase dviju limenki.</feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Prvo smo &amp;#x0161;utnuli praznu limenku, a zatim onu napunjenu &amp;#x017E;eljezom.</text><feedback>Neto&amp;#x010D;no. 
+Redoslijed kojim &amp;#x0161;utnemo limenke nije bitan. Usporedi masu prazne i masu pune limenke te njihovu tromost.</feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>U ovoj animaciji &amp;#x0107;emo usporediti mase dviju kugli na glatkoj povr&amp;#x0161;ini stola. Stavit &amp;#x0107;emo izme&amp;#x0111;u njih oprugu, pritisnuti ih jednu prema drugoj kako bi se opruga izme&amp;#x0111;u njih stisnula te zatim pustiti. Opruga &amp;#x0107;e se naglo ra&amp;#x0161;iriti, a kugle &amp;#x0107;e biti odgurnute u suprotnim smjerovima. Ako bismo imali dvije kugle razli&amp;#x010D;itih masa, koja od njih bi odletila dalje?
+&amp;#x003C;br&amp;#x003E;&amp;#x003C;object codebase=&quot;Pitanje 2.swf&quot; type=&quot;application/x-shockwave-flash&quot; width=&quot;600&quot; height=&quot;375&quot; data=&quot;Pitanje 2.swf&quot;&amp;#x003E; &amp;#x003C;param name=&quot;movie&quot; value=&quot;Pitanje 2.swf&quot; /&amp;#x003E;&amp;#x003C;a href=&quot;Pitanje 2.swf&quot; title=&quot;Dvije kugle i opruga&quot;&amp;#x003E;Pitanje 2.swf&amp;#x003C;/a&amp;#x003E;&amp;#x003C;/object&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>Obje &amp;#x0107;e biti jednako udaljene.</text><feedback>Neto&amp;#x010D;no. 
+Pretpostavili smo da su kugle razli&amp;#x010D;itih masa. Ukoliko bi one imale jednake mase tada bi ova tvrdnja bila to&amp;#x010D;na.</feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Dalje &amp;#x0107;e odletiti kugla ve&amp;#x0107;e mase.</text><feedback>Neto&amp;#x010D;no. Kugla ve&amp;#x0107;e mase ima ve&amp;#x0107;u tromost, a ako ima ve&amp;#x0107;u tromost onda ju je te&amp;#x017E;e pokrenuti pa ne mo&amp;#x017E;e odletiti dalje od kugle manje tromosti.</feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Obje &amp;#x0107;e mirovati.</text><feedback>Neto&amp;#x010D;no. Rekli smo da su kugle odgurnute u suprotnim smjerovima i iz tog zaklju&amp;#x010D;ujemo da su obje u stanju gibanja.</feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Dalje &amp;#x0107;e odletiti kugla manje mase.</text><feedback>To&amp;#x010D;no. 
+Kugla manje mase se manje opire promjeni svog stanja mirovanja pa &amp;#x0107;e odletiti dalje.</feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Zbog glatke povr&amp;#x0161;ine stola, obje &amp;#x0107;e biti jednako udaljene.</text><feedback>Neto&amp;#x010D;no.
+Kako su obje odgurnute na istoj povr&amp;#x0161;ini, pod istim uvjetima, bitno nam je poznavati njihovu masu jer tako mo&amp;#x017E;emo zaklju&amp;#x010D;iti koja &amp;#x0107;e dalje odletiti. Mase su im razli&amp;#x010D;ite pa ne mogu biti jednako udaljene.</feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>&amp;#x017D;elimo izmjeriti masu jedne spajalice. Kako jedna spajalica nema dovoljno veliku masu da bi je vaga mogla mjeriti, mo&amp;#x017E;emo staviti i izvagati 60 spajalica. Vaga nam pokazuje da je masa 60 spajalica jednaka 60 g. Ako je svih 60 spajalica pribli&amp;#x017E;no jednako tada &amp;#x0107;e masa jedne spajalice iznositi:
+&amp;#x003C;br&amp;#x003E;&amp;#x003C;img src=&quot;Pitanje 3.jpg&quot; alt=&quot;Pitanje 3.jpg&quot; title=&quot;Masa jedne spajalice&quot; width=&quot;350&quot; height=&quot;400&quot;&amp;#x003E;&amp;#x003C;/img&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>1 g.</text><feedback>To&amp;#x010D;no. 
+Masa jedne spajalice jednaka je 60 g/60, odnosno 1 g.</feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>6 g.</text><feedback>Neto&amp;#x010D;no.
+Ovaj odgovor bio bi to&amp;#x010D;an ukoliko bismo, u po&amp;#x010D;etku, mjerili masu 10 spajalica.</feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>0.1 g.</text><feedback>Neto&amp;#x010D;no.
+Ovaj odgovor bio bi to&amp;#x010D;an ako bi prilikom mjerenja 60 spajalica njihova masa bila jednaka 600 g.</feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>1 kg.</text><feedback>Neto&amp;#x010D;no.
+Broj koji si dobio je to&amp;#x010D;an, ali koristi&amp;#x0161; krivu mjernu jedinicu. Sjeti se da je 1 kg ustvari 1000 g, a mi smo dobili da je masa 60 spajalica jednaka 60 g.</feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>1 dag</text><feedback>Neto&amp;#x010D;no.
+Broj koji si dobio je to&amp;#x010D;an, ali koristi&amp;#x0161; krivu mjernu jedinicu. Sjeti se da je 1 dag ustvari 10 g, a mi smo dobili da je masa 60 spajalica jednaka 60 g.</feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Na zdjelicu kuhinjske vage smo, u po&amp;#x010D;etku, stavili cijelu jabuku i izmjerili njenu masu koja iznosi 200 g. Zatim smo uzeli i prerezali tu istu jabuku na &amp;#x010D;etiri dijela i stavili ju natrag na vagu da bismo izmjerili ukupnu masu &amp;#x010D;etiri dijela jabuke. Pogledaj sljede&amp;#x0107;e fotografije. Koja od njih pokazuje ispravan iznos ukupne mase &amp;#x010D;etiri dijela jabuke?
+&amp;#x003C;br&amp;#x003E;&amp;#x003C;img src=&quot;Pitanje 4a.jpg&quot; alt=&quot;Pitanje 4a.jpg&quot; title=&quot;Cijela jabuka&quot; width=&quot;290&quot; height=&quot;350&quot;&amp;#x003E;  &amp;#x003C;/img&amp;#x003E;&amp;#x003C;img src=&quot;Pitanje 4b.jpg&quot; alt=&quot;Pitanje 4b.jpg&quot; title=&quot;Podjela jabuke&quot; width=&quot;900&quot; height=&quot;250&quot;&amp;#x003E;&amp;#x003C;/img&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>Slika 1.</text><feedback>Neto&amp;#x010D;no.
+Ova slika nema smisla jer svako tijelo ima masu, ma koliko ona malo iznosila.</feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Slika 2.</text><feedback>Neto&amp;#x010D;no.
+Prisjeti se &amp;#x0161;to ka&amp;#x017E;e zakon o&amp;#x010D;uvanja mase.</feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Slika 3.</text><feedback>Neto&amp;#x010D;no.
+Prisjeti se &amp;#x0161;to ka&amp;#x017E;e zakon o&amp;#x010D;uvanja mase.</feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Slika 4.</text><feedback>To&amp;#x010D;no. Ukupna masa jabuke ostaje nepromijenjena pri svim promjenama oblika. Ovdje vrijedi zakon o&amp;#x010D;uvanja mase.</feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Slika 5.</text><feedback>Neto&amp;#x010D;no.
+Prisjeti se &amp;#x0161;to ka&amp;#x017E;e zakon o&amp;#x010D;uvanja mase.</feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Apollo 11 je bila svemirska misija koja je 20. srpnja 1969. dovela prve ljude na Mjesec. Prvi &amp;#x010D;ovjek koji je stupio nogom na povr&amp;#x0161;inu Mjeseca bio je zapovjednik misije, Neil Armstrong. Kad je napravio prvi korak rekao je poznatu re&amp;#x010D;enicu: &quot;Ovo je mali korak za &amp;#x010D;ovjeka, ali veliki skok za &amp;#x010D;ovje&amp;#x010D;anstvo.&quot; Na Zemlji je, prije polijetanja, zajedno s opremom imao masu od oko 135 kg. U trenutku kada je kro&amp;#x010D;io na Mjesec, kolika mu je bila masa?
+&amp;#x003C;br&amp;#x003E;&amp;#x003C;img src=&quot;Pitanje 5.jpg&quot; alt=&quot;Pitanje 5.jpg&quot; title=&quot;&amp;#x010C;ovjek na mjesecu&quot; width=&quot;350&quot; height=&quot;400&quot;&amp;#x003E;&amp;#x003C;/img&amp;#x003E;  &amp;#x003C;a style=&quot;cursor: pointer; text-decoration: underline;&quot; onclick=&quot;window.open(&apos;http://solarsystem.nasa.gov/multimedia/display.cfm?Category=History&amp;#x0026;IM_ID=6686&apos;);return false;&quot;&amp;#x003E;Slika preuzeta s ove stranice&amp;#x003C;/a&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>Ve&amp;#x0107;a nego na Zemlji.</text><feedback>Neto&amp;#x010D;no.
+Prisjeti se &amp;#x0161;to ka&amp;#x017E;e zakon o&amp;#x010D;uvanja mase.</feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Ista kao i na Zemlji.</text><feedback>To&amp;#x010D;no. 
+Sva tijela u prirodi imaju masu koja se ne mijenja, ona ostaje ista bez obzira nalazi li se tijelo na Zemlji, Mjesecu ili daleko u svemiru. Time je zadovoljen zakon o&amp;#x010D;uvanja mase.</feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Manja nego na Zemlji.</text><feedback>Neto&amp;#x010D;no.
+Prisjeti se &amp;#x0161;to ka&amp;#x017E;e zakon o&amp;#x010D;uvanja mase.</feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Nemogu&amp;#x0107;e je odrediti.</text><feedback>Neto&amp;#x010D;no.
+Masa tijela se dade odrediti. Svako tijelo ima svoju masu koja je nepromjenjiva te je u bilo kojem prostoru jednaka.</feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Na Mjesecu nema mase.</text><feedback>Neto&amp;#x010D;no.
+Svako tijelo ima svoju masu bez obzira nalazi li se ono na Zemlji, Mjesecu ili daleko u svemiru.</feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Pogledaj sljede&amp;#x0107;u animaciju. Imamo tri utega razli&amp;#x010D;itih boja, ali i razli&amp;#x010D;itih masa koje smo izmjerili kuhinjskom vagom. Potrebno je utvrditi: koje je boje uteg s najve&amp;#x0107;om masom?
+&amp;#x003C;br&amp;#x003E;&amp;#x003C;object codebase=&quot;Pitanje 6.swf&quot; type=&quot;application/x-shockwave-flash&quot; width=&quot;600&quot; height=&quot;375&quot; data=&quot;Pitanje 6.swf&quot;&amp;#x003E; &amp;#x003C;param name=&quot;movie&quot; value=&quot;Pitanje 6.swf&quot; /&amp;#x003E;&amp;#x003C;a href=&quot;Pitanje 6.swf&quot; title=&quot;Utezi razli&amp;#x010D;itih masa&quot;&amp;#x003E;Pitanje 6.swf&amp;#x003C;/a&amp;#x003E;&amp;#x003C;/object&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>Zlatne boje.</text><feedback>Neto&amp;#x010D;no.
+Kuhinjska vaga je pokazala da zlatni uteg ima masu 0.5 kg, &amp;#x0161;to, gledaju&amp;#x0107;i animaciju do kraja, ne zna&amp;#x010D;i da ima najve&amp;#x0107;u masu.</feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Sive boje.</text><feedback>Neto&amp;#x010D;no
+Kuhinjska vaga je pokazala da sivi uteg ima masu 1 kg, &amp;#x0161;to jest ve&amp;#x0107;a masa od zlatnog utega, ali gledaju&amp;#x0107;i animaciju do kraja, uteg sive boje nema najve&amp;#x0107;u masu.</feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Crne boje.</text><feedback>To&amp;#x010D;no.
+Kuhinjska vaga je pokazala da crni uteg ima masu 1.5 kg, &amp;#x0161;to jest ve&amp;#x0107;a masa i od zlatnog utega i od sivog utega. Po&amp;#x0161;to su samo tri utega, a ovo je zadnji, on je uteg s najve&amp;#x0107;om masom.</feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Svi utezi imaju istu masu.</text><feedback>Neto&amp;#x010D;no.
+Nisi pa&amp;#x017E;ljivo pogledao animaciju. Sva tri utega su razli&amp;#x010D;itih masa.</feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Ovdje imamo prikaz obi&amp;#x010D;ne kuhinjske vage koja mjeri masu tijela do 2 kg. Trenutno, ova vaga ne va&amp;#x017E;e niti jedan predmet te zbog toga ima kazaljku na nuli. &amp;#x0160;to iz toga mo&amp;#x017E;emo zaklju&amp;#x010D;iti?
+&amp;#x003C;br&amp;#x003E;&amp;#x003C;img src=&quot;Pitanje 7.jpg&quot; alt=&quot;Pitanje 7.jpg&quot; title=&quot;Kuhinjska vaga&quot; width=&quot;500&quot; height=&quot;400&quot;&amp;#x003E;&amp;#x003C;/img&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>Vaga nije u ravnote&amp;#x017E;i.</text><feedback>Neto&amp;#x010D;no.
+Vaga ima kazaljku na nuli pa prema tome ne mo&amp;#x017E;e ne biti u ravnote&amp;#x017E;i. U slu&amp;#x010D;aju da kazaljka nije na nuli, onda ona ne bi bila u ravnote&amp;#x017E;i.</feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Vaga je u ravnote&amp;#x017E;i.</text><feedback>To&amp;#x010D;no.
+Samim time &amp;#x0161;to je kazaljka na nuli znamo da je vaga u ravnote&amp;#x017E;i.</feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Vaga mjeri masu nekog predmeta.</text><feedback>Neto&amp;#x010D;no.
+Nisi pa&amp;#x017E;ljivo pro&amp;#x010D;itao pitanje. Rekli smo da vaga ne va&amp;#x017E;e niti jedan predmet.</feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Ni&amp;#x0161;ta.</text><feedback>Neto&amp;#x010D;no.
+Ponovno pro&amp;#x010D;itaj pitanje i razmisli.</feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Predmet &amp;#x010D;iju masu mjerimo je &amp;#x0161;e&amp;#x0107;er. Kazaljka pokazuje na 1 kilogram pa prema tome mo&amp;#x017E;emo re&amp;#x0107;i da &amp;#x0161;e&amp;#x0107;er ima masu 1 kg, a nau&amp;#x010D;ili smo da je to osnovna mjerna jedinica za masu. Spomenuli smo da postoji jo&amp;#x0161; nekoliko mjernih jedinica u kojima mo&amp;#x017E;emo iskazati masu. &amp;#x010C;esto se u kulinarstvu koristi mjerna jedinica gram. Kada bismo masu &amp;#x0161;e&amp;#x0107;era iz kg pretvorili u g, koliko bi ona iznosila?
+&amp;#x003C;br&amp;#x003E;&amp;#x003C;img src=&quot;Pitanje 8.jpg&quot; alt=&quot;Pitanje 8.jpg&quot; title=&quot;Kuhinjska vaga mjeri masu &amp;#x0161;e&amp;#x0107;era&quot; width=&quot;350&quot; height=&quot;500&quot;&amp;#x003E;&amp;#x003C;/img&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>100 g.</text><feedback>Neto&amp;#x010D;no.
+Takav odnos bi vrijedio da smo masu &amp;#x0161;e&amp;#x0107;era pretvorili iz kg u dag.</feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>1000 g.</text><feedback>To&amp;#x010D;no.
+1 kg jednak je 1000 g. Ovaj podatak tako&amp;#x0111;er si mogao pro&amp;#x010D;itati sa slike jer kuhinjska vaga istovremeno pokazuje masu tijela u kg i u g.</feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>0.001 g</text><feedback>Neto&amp;#x010D;no.
+Takav odnos bi vrijedio da smo masu &amp;#x0161;e&amp;#x0107;era pretvorili iz kg u t.</feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>100000 g.</text><feedback>Neto&amp;#x010D;no.
+Takav odnos bi vrijedio da smo masu &amp;#x0161;e&amp;#x0107;era pretvorili iz kg u mg.</feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Ovdje imamo prikaz starinske kuhinjske vage koja mjeri masu tijela do 9 kg. Ona mjeri masu tijela na ne&amp;#x0161;to druga&amp;#x010D;iji na&amp;#x010D;in nego obi&amp;#x010D;na. Nakon &amp;#x0161;to se na vagu stavi predmet &amp;#x010D;iju masu &amp;#x017E;elimo izmjeriti (u ovom slu&amp;#x010D;aju jabuke), pomo&amp;#x0107;u pomi&amp;#x010D;nih utega namje&amp;#x0161;ta se da bi izbo&amp;#x010D;eni dijelovi (zaokru&amp;#x017E;eni dio na slici) bili poravnati. Kada je taj uvjet zadovoljen, mo&amp;#x017E;emo pro&amp;#x010D;itati koliku masu ima jabuka. Ovdje je to prikazano na dvjema trakama. Gledaju&amp;#x0107;i podatke sa slike, odredi kolika je masa jabuke u dag, odnosno kg.
+&amp;#x003C;br&amp;#x003E;&amp;#x003C;img src=&quot;Pitanje 9.jpg&quot; alt=&quot;Pitanje 9.jpg&quot; title=&quot;Starinska kuhinjska vaga mjeri masu jabuke&quot; width=&quot;650&quot; height=&quot;450&quot;&amp;#x003E;&amp;#x003C;/img&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>18 dag, odnosno 0.18 kg.</text><feedback>To&amp;#x010D;no.
+Taj podatak se mo&amp;#x017E;e pro&amp;#x010D;itati s trake koja prikazuje dekagrama. Masa jabuke je 18 dag, a pretvorbom u kilograme, ona iznosi 0.18 kg.</feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>180 dag, odnosno 1.8 kg.</text><feedback>Neto&amp;#x010D;no.
+Na slici mo&amp;#x017E;e&amp;#x0161; vidjeti da traka koja prikazuje dekagrame zavr&amp;#x0161;ava sa 100 dag, a pomi&amp;#x010D;ni uteg se nalazi gotovo na po&amp;#x010D;etku trake pa ovi iznosi mase jabuke ne mogu biti to&amp;#x010D;ni.</feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>0.18 dag, odnosno 18 kg.</text><feedback>Neto&amp;#x010D;no.
+Mjerne jedinice ovdje zapisane su neto&amp;#x010D;ne. Dekagram je manja mjerna jedinica od kilograma pa ovaj odnos me&amp;#x0111;u njima nikako ne mo&amp;#x017E;e vrijediti.</feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Ne mo&amp;#x017E;e se odrediti.</text><feedback>Neto&amp;#x010D;no.
+Na slici ima&amp;#x0161; dovoljno informacija da bi donio zaklju&amp;#x010D;ak kolika je masa jabuke u dag, odnosno kg.</feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Mjerimo masu dvaju tijela. Obi&amp;#x010D;na kuhinjska vaga mjeri masu mandarine dok starinska kuhinjska vaga mjeri masu jabuke. Masa mandarine je 90 g, dok je masa jabuke 18 dag. U po&amp;#x010D;etku imamo razli&amp;#x010D;ite mjerne jedinice. Kako bi mogli usporediti njihove mase, potrebno je pretvoriti svaku od mjernih jedinica u onu osnovnu. Sada &amp;#x0107;e masa mandarine biti 0.09 kg, a masa jabuke 0.18 kg. Tako smo dobili da je mandarina tijelo manje mase, a jabuka tijelo ve&amp;#x0107;e mase. Na temelju ovih informacija, odredi koje je tijelo tromije.
+&amp;#x003C;br&amp;#x003E;&amp;#x003C;img src=&quot;Pitanje 10.jpg&quot; alt=&quot;Pitanje 10.jpg&quot; title=&quot;Dvije razli&amp;#x010D;ite mase&quot; width=&quot;650&quot; height=&quot;450&quot;&amp;#x003E;&amp;#x003C;/img&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>Banana.</text><feedback>Neto&amp;#x010D;no.
+Na ovoj slici banane nema. Koncentriraj se i bolje pogledaj &amp;#x0161;to se sve nalazi na slici.</feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Jabuka.</text><feedback>To&amp;#x010D;no.
+Masa jabuke je ve&amp;#x0107;a od mase mandarine pa mo&amp;#x017E;emo zaklju&amp;#x010D;iti da je jabuka tromija od mandarine.</feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Mandarina.</text><feedback>Neto&amp;#x010D;no.
+Masa mandarine je manja od mase jabuke pa ne mo&amp;#x017E;emo re&amp;#x0107;i da je mandarina tromija od jabuke.</feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Nijedno.</text><feedback>Neto&amp;#x010D;no.
+Potrudili smo se napraviti razliku izme&amp;#x0111;u ova dva tijela i jedno od njih ima masu ve&amp;#x0107;u od drugog. Prisjeti se relacije izme&amp;#x0111;u tromosti i mase.</feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record></questions>
+</data>
+
+<hotpot-config-file>
+<jquiz>
+<exercise-subtitle></exercise-subtitle>
+<instructions>Svako pitanje ima samo jedan to&amp;#x010D;an odgovor.</instructions>
+<guess-correct>To&amp;#x010D;no!</guess-correct>
+<guess-incorrect>&amp;#x017D;ao mi je! Poku&amp;#x0161;ajte ponovno.</guess-incorrect>
+<partly-incorrect>Va&amp;#x0161; odgovor je djelomi&amp;#x010D;no neto&amp;#x010D;an: </partly-incorrect>
+<enter-a-guess>Molim, poku&amp;#x0161;ajte odgovoriti.</enter-a-guess>
+<next-correct-letter>Sljede&amp;#x0107;e ispravno slovo u odgovoru: </next-correct-letter>
+<correct-answers>To&amp;#x010D;ni odgovori: </correct-answers>
+<show-answer-caption>Poka&amp;#x017E;i odgovor</show-answer-caption>
+<include-hint>1</include-hint>
+<include-show-answer>0</include-show-answer>
+<next-ex-url>nextpage.htm</next-ex-url>
+<send-email>0</send-email>
+<continuous-scoring>1</continuous-scoring>
+<show-correct-first-time>0</show-correct-first-time>
+<shuffle-questions>1</shuffle-questions>
+<shuffle-answers>1</shuffle-answers>
+<show-limited-questions>0</show-limited-questions>
+<questions-to-show>1</questions-to-show>
+<short-answer-tries-on-hybrid-q>2</short-answer-tries-on-hybrid-q>
+<separate-javascript-file>0</separate-javascript-file>
+<case-sensitive>0</case-sensitive>
+<include-keypad>0</include-keypad>
+</jquiz>
+
+<global>
+<your-score-is>Va&amp;#x0161; rezultat je: </your-score-is>
+<correct-indicator>&amp;#x2713;</correct-indicator>
+<incorrect-indicator>&amp;#x2718;</incorrect-indicator>
+<correct-first-time>To&amp;#x010D;no rije&amp;#x0161;ena pitanja u prvom poku&amp;#x0161;aju su:  </correct-first-time>
+<completed-so-far>Do ovog trenutka su odgovori to&amp;#x010D;ni</completed-so-far>
+<exercise-completed>U cijelosti ste zavr&amp;#x0161;ili vje&amp;#x017E;bu.</exercise-completed>
+<keypad-characters></keypad-characters>
+<times-up>Va&amp;#x0161;e vrijeme je isteklo!</times-up>
+<next-ex-caption>=&amp;#x003E;</next-ex-caption>
+<back-caption>&amp;#x003C;=</back-caption>
+<contents-caption>Sadr&amp;#x017E;aj</contents-caption>
+<include-next-ex>0</include-next-ex>
+<include-contents>0</include-contents>
+<include-back>0</include-back>
+<contents-url>contents.htm</contents-url>
+<graphic-url></graphic-url>
+<font-face>Century Gothic</font-face>
+<font-size>medium</font-size>
+<page-bg-color>#2B547E</page-bg-color>
+<title-color>#EBF4FA</title-color>
+<ex-bg-color>#2B547E</ex-bg-color>
+<text-color>#EBF4FA</text-color>
+<link-color>#1569C7</link-color>
+<vlink-color>#000000</vlink-color>
+<nav-bar-color>#C6DEFF</nav-bar-color>
+<formmail-url></formmail-url>
+<email></email>
+<name-please>Molimo, unesite svoje ime:</name-please>
+<user-string-1>one</user-string-1>
+<user-string-2>two</user-string-2>
+<user-string-3>three</user-string-3>
+<header-code></header-code>
+<correct-first-time>To&amp;#x010D;no rije&amp;#x0161;ena pitanja u prvom poku&amp;#x0161;aju su:  </correct-first-time>
+<check-caption>Provjeri</check-caption>
+<ok-caption>OK</ok-caption>
+<next-q-caption>&amp;#x2192; </next-q-caption>
+<last-q-caption>&amp;#x2190;</last-q-caption>
+<hint-caption>Pomo&amp;#x0107;</hint-caption>
+<show-all-questions-caption>Poka&amp;#x017E;i sva pitanja</show-all-questions-caption>
+<show-one-by-one-caption>Poka&amp;#x017E;i pitanja jedno po jedno</show-one-by-one-caption>
+<show-also-correct>0</show-also-correct>
+<process-for-rtl>0</process-for-rtl>
+<include-scorm-12>0</include-scorm-12>
+</global>
+</hotpot-config-file>
+</hotpot-jquiz-file>

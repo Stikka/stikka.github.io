@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<hotpot-jquiz-file>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <rdf:Description rdf:about="">
+    <dc:creator>Nastassia</dc:creator>
+    <dc:title>Rasprava</dc:title>
+  </rdf:Description>
+</rdf:RDF><version>6</version>
+
+<data>
+<title>Rasprava</title>
+
+<timer><seconds>60</seconds><include-timer>0</include-timer></timer>
+
+<reading>
+<include-reading>0</include-reading>
+<reading-title></reading-title>
+<reading-text></reading-text>
+
+</reading>
+
+<questions><question-record><question>Prisjeti se prvog pokusa &quot;Povla&amp;#x010D;enje papira - slu&amp;#x010D;aj prazne &amp;#x010D;a&amp;#x0161;e i nov&amp;#x010D;i&amp;#x0107;a&quot; i odgovori na pitanje: nakon &amp;#x0161;to smo naglo povukli papir, za&amp;#x0161;to je nov&amp;#x010D;i&amp;#x0107; pao u &amp;#x010D;a&amp;#x0161;u?
+&amp;#x003C;br&amp;#x003E;&amp;#x003C;img src=&quot;C1.jpg&quot; alt=&quot;C1.jpg&quot; title=&quot;Prazna &amp;#x010D;a&amp;#x0161;a i nov&amp;#x010D;i&amp;#x0107;&quot; width=&quot;700&quot; height=&quot;355&quot;&amp;#x003E;&amp;#x003C;/img&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>Masa nov&amp;#x010D;i&amp;#x0107;a jednaka je masi papira.</text><feedback>Neto&amp;#x010D;no. 
+Kada bismo imali jednake mase, onda bi zajedno oti&amp;#x0161;li u odre&amp;#x0111;enom smjeru. Rekli smo da je nov&amp;#x010D;i&amp;#x0107; pao u &amp;#x010D;a&amp;#x0161;u dok je papir oti&amp;#x0161;ao u stranu.</feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Nov&amp;#x010D;i&amp;#x0107; ima manju masu od papira.</text><feedback>Neto&amp;#x010D;no. 
+Spomenuli smo na kraju pokusa da je nov&amp;#x010D;i&amp;#x0107; tromiji od papira. Tromost je usko povezana s masom tijela. &amp;#x0160;to je tijelo tromije, to ono ima ve&amp;#x0107;u masu.</feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Nov&amp;#x010D;i&amp;#x0107; ima ve&amp;#x0107;u masu od papira.</text><feedback>To&amp;#x010D;no. 
+Rekli smo da je nov&amp;#x010D;i&amp;#x0107; tromiji od papira. Nov&amp;#x010D;i&amp;#x0107; se opire promjeni stanja mirovanja, ne pokre&amp;#x0107;e se i pada u &amp;#x010D;a&amp;#x0161;u kada mu naglo izmaknemo podlogu.</feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Papir je bijele boje.</text><feedback>Neto&amp;#x010D;no. 
+Boje predmeta koje koristimo u pokusima nisu povezane s masom tijela. Spominjali smo pojam tromost. Prona&amp;#x0111;i njenu povezanost s masom tijela.</feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Prisjeti se drugog pokusa &quot;Povla&amp;#x010D;enje papira - slu&amp;#x010D;aj &amp;#x010D;a&amp;#x0161;e s vodom&quot; i odgovori na pitanje: za&amp;#x0161;to se voda u &amp;#x010D;a&amp;#x0161;i gotovo da i nije pomaknula?
+&amp;#x003C;br&amp;#x003E;&amp;#x003C;img src=&quot;C2.jpg&quot; alt=&quot;C2.jpg&quot; title=&quot;&amp;#x010C;a&amp;#x0161;a s vodom&quot; width=&quot;700&quot; height=&quot;355&quot;&amp;#x003E;&amp;#x003C;/img&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>Voda se prolila.</text><feedback>Neto&amp;#x010D;no. 
+Nisi pa&amp;#x017E;ljivo pratio pokus, niti pitanje. Rekli smo da se voda u &amp;#x010D;a&amp;#x0161;i gotovo da i nije pomaknula. Prema tome, ova tvrdnja ne dr&amp;#x017E;i vodu.</feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Papir je tromiji od vode.</text><feedback>Neto&amp;#x010D;no.
+Spomenuli smo na kraju pokusa da voda ima ve&amp;#x0107;u masu od papira. Masa tijela je usko povezana s pojmom tromost. &amp;#x0160;to je tijelo tromije, to ono ima ve&amp;#x0107;u masu.</feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Nema obja&amp;#x0161;njenja.</text><feedback>Neto&amp;#x010D;no.
+Spominjali smo pojam tromost. Dovedi ga u relaciju s masom tijela i na temelju toga donesi zaklju&amp;#x010D;ak.</feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Voda je tromija od papira.</text><feedback>To&amp;#x010D;no. 
+&amp;#x010C;a&amp;#x0161;a s vodom ostaje na mjestu dok ispod nje naglo izvla&amp;#x010D;imo papir upravo zbog navedene tvrdnje.</feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Prisjeti se tre&amp;#x0107;eg pokusa &quot;Otapanje &amp;#x0161;e&amp;#x0107;era u vodi&quot; i odgovori na pitanje: zbog kojeg zakona je masa otopine jednaka zbroju mase &amp;#x0161;e&amp;#x0107;era i vode zasebno?
+&amp;#x003C;br&amp;#x003E;&amp;#x003C;img src=&quot;F123.jpg&quot; alt=&quot;F123.jpg&quot; title=&quot;Otapanje &amp;#x0161;e&amp;#x0107;era u vodi&quot; width=&quot;750&quot; height=&quot;400&quot;&amp;#x003E;&amp;#x003C;/img&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>Zakon o&amp;#x010D;uvanja mase.</text><feedback>To&amp;#x010D;no.
+Masa otopine biti &amp;#x0107;e jednaka zbroju &amp;#x0161;e&amp;#x0107;era i vode prije stavljanja &amp;#x0161;e&amp;#x0107;era u vodu upravo zbog zakona o&amp;#x010D;uvanja mase. Masa je &quot;o&amp;#x010D;uvana&quot;, nije se izgubila.</feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Zakon gubitka mase.</text><feedback>Neto&amp;#x010D;no.
+Ovakav zakon ne postoji. Re&amp;#x010D;eno je da je masa otopine jednaka zbroju mase &amp;#x0161;e&amp;#x0107;era i vode zasebno. Zbog toga znamo da se masa nije izgubila.</feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Zakon stare mase.</text><feedback>Neto&amp;#x010D;no.
+Ovakav zakon ne postoji. Mogli bismo re&amp;#x0107;i da je stara masa ona od &amp;#x0161;e&amp;#x0107;era i od vode prije nego &amp;#x0161;to smo ih pomije&amp;#x0161;ali. Na dobrom si tragu, samo se prisjeti pravog naziva ovog zakona.</feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Zakon nove mase.</text><feedback>Neto&amp;#x010D;no.
+Ovakav zakon ne postoji. Mogli bismo re&amp;#x0107;i da je nova masa ona od otopine koju smo dobili mje&amp;#x0161;anjem &amp;#x0161;e&amp;#x0107;era i vode. Na dobrom si tragu, samo se prisjeti pravog naziva ovog zakona.</feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Prisjeti se tre&amp;#x0107;eg pokusa &quot;Otapanje &amp;#x0161;e&amp;#x0107;era u vodi&quot;, pogledaj sljede&amp;#x0107;u sliku te odgovori na pitanje: koliko &amp;#x0107;e grama iznositi otopina &amp;#x0161;e&amp;#x0107;era i vode?
+&amp;#x003C;br&amp;#x003E;&amp;#x003C;img src=&quot;C3.jpg&quot; alt=&quot;C3.jpg&quot; title=&quot;Otapanje &amp;#x0161;e&amp;#x0107;era u vodi&quot; width=&quot;700&quot; height=&quot;400&quot;&amp;#x003E;&amp;#x003C;/img&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>490 g.</text><feedback>Neto&amp;#x010D;no.
+Ovo je masa &amp;#x010D;a&amp;#x0161;e s vodom, a nikako otopine. Pa&amp;#x017E;ljivo promotri sliku.</feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>10 g.</text><feedback>Neto&amp;#x010D;no.
+Ovo je masa &amp;#x0161;e&amp;#x0107;era, a nikako otopine. Pa&amp;#x017E;ljivo promotri sliku.</feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>0 g.</text><feedback>Neto&amp;#x010D;no.
+Masa otopine ne mo&amp;#x017E;e biti jednaka 0 g jer smo ju dobili mije&amp;#x0161;anjem dviju komponenti, &amp;#x0161;e&amp;#x0107;era i vode, koje imaju svoje iznose masa. Ta njihova masa nije nestala, ve&amp;#x0107; je o&amp;#x010D;uvana.</feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>500 g.</text><feedback>To&amp;#x010D;no.
+Masa otopine jednaka je zbroju &amp;#x0161;e&amp;#x0107;era i vode prije stavljanja &amp;#x0161;e&amp;#x0107;era u vodu.</feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Sigurno ste na tjelesnom koristili loptu koja se zove medicinka te ju bacali &amp;#x0161;to dalje, ali to nije bilo lako zbog njene mase koja iznosi 1 kg. Tako&amp;#x0111;er ste se upoznali s odbojkom gdje je masa odbojka&amp;#x0161;ke lopte jednaka 300 g. Biste li mogli igrati odbojku s medicinkom?
+&amp;#x003C;br&amp;#x003E;&amp;#x003C;img src=&quot;lopte.jpg&quot; alt=&quot;lopte.jpg&quot; title=&quot;Medicinka i odbojka&amp;#x0161;ka lopta&quot;&amp;#x003E;&amp;#x003C;/img&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>Da.</text><feedback>Neto&amp;#x010D;no.
+Medicinka ima puno ve&amp;#x0107;u masu od odbojka&amp;#x0161;ke lopte i ne biste ju mogli podi&amp;#x0107;i niti odbijati prstima. Medicinka je tromija od odbojka&amp;#x0161;ke lopte.</feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Ne.</text><feedback>To&amp;#x010D;no.
+Odbojka&amp;#x0161;ka lopta je puno lak&amp;#x0161;a od medicinke i samo njome se mo&amp;#x017E;e igrati odbojka. Medicinka je tromija od odbojka&amp;#x0161;ke lopte.</feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Mo&amp;#x017E;da.</text><feedback>Neto&amp;#x010D;no.
+Takav se odgovor ne mo&amp;#x017E;e prihvatiti. Razlika izme&amp;#x0111;u masa jedne i druge lopte dovoljno je velika da bi donio zaklju&amp;#x010D;ak s odgovor ili da ili ne.</feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Nemogu&amp;#x0107;e je odrediti.</text><feedback>Neto&amp;#x010D;no.
+Naveli smo mase obiju lopti i mogu&amp;#x0107;e je odrediti mo&amp;#x017E;e li se medicinkom igrati odbojka. Usporedi njihove mase i optere&amp;#x0107;enje ruku kada igra&amp;#x0161; odbojku pomo&amp;#x0107;u jedne ili druge lopte.</feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record></questions>
+</data>
+
+<hotpot-config-file>
+<jquiz>
+<exercise-subtitle></exercise-subtitle>
+<instructions>Svako pitanje ima samo jedan to&amp;#x010D;an odgovor.</instructions>
+<guess-correct>To&amp;#x010D;no!</guess-correct>
+<guess-incorrect>&amp;#x017D;ao mi je! Poku&amp;#x0161;ajte ponovno.</guess-incorrect>
+<partly-incorrect>Va&amp;#x0161; odgovor je djelomi&amp;#x010D;no neto&amp;#x010D;an: </partly-incorrect>
+<enter-a-guess>Molim, poku&amp;#x0161;ajte odgovoriti.</enter-a-guess>
+<next-correct-letter>Sljede&amp;#x0107;e ispravno slovo u odgovoru: </next-correct-letter>
+<correct-answers>To&amp;#x010D;ni odgovori: </correct-answers>
+<show-answer-caption>Poka&amp;#x017E;i odgovor</show-answer-caption>
+<include-hint>1</include-hint>
+<include-show-answer>0</include-show-answer>
+<next-ex-url>nextpage.htm</next-ex-url>
+<send-email>0</send-email>
+<continuous-scoring>1</continuous-scoring>
+<show-correct-first-time>0</show-correct-first-time>
+<shuffle-questions>1</shuffle-questions>
+<shuffle-answers>1</shuffle-answers>
+<show-limited-questions>0</show-limited-questions>
+<questions-to-show>1</questions-to-show>
+<short-answer-tries-on-hybrid-q>2</short-answer-tries-on-hybrid-q>
+<separate-javascript-file>0</separate-javascript-file>
+<case-sensitive>0</case-sensitive>
+<include-keypad>0</include-keypad>
+</jquiz>
+
+<global>
+<your-score-is>Va&amp;#x0161; rezultat je: </your-score-is>
+<correct-indicator>&amp;#x2713;</correct-indicator>
+<incorrect-indicator>&amp;#x2718;</incorrect-indicator>
+<correct-first-time>To&amp;#x010D;no rije&amp;#x0161;ena pitanja u prvom poku&amp;#x0161;aju su:  </correct-first-time>
+<completed-so-far>Do ovog trenutka su odgovori to&amp;#x010D;ni</completed-so-far>
+<exercise-completed>U cijelosti ste zavr&amp;#x0161;ili vje&amp;#x017E;bu.</exercise-completed>
+<keypad-characters></keypad-characters>
+<times-up>Va&amp;#x0161;e vrijeme je isteklo!</times-up>
+<next-ex-caption>=&amp;#x003E;</next-ex-caption>
+<back-caption>&amp;#x003C;=</back-caption>
+<contents-caption>Sadr&amp;#x017E;aj</contents-caption>
+<include-next-ex>0</include-next-ex>
+<include-contents>0</include-contents>
+<include-back>0</include-back>
+<contents-url>contents.htm</contents-url>
+<graphic-url></graphic-url>
+<font-face>Century Gothic</font-face>
+<font-size>medium</font-size>
+<page-bg-color>#2B547E</page-bg-color>
+<title-color>#EBF4FA</title-color>
+<ex-bg-color>#2B547E</ex-bg-color>
+<text-color>#EBF4FA</text-color>
+<link-color>#1569C7</link-color>
+<vlink-color>#000000</vlink-color>
+<nav-bar-color>#C6DEFF</nav-bar-color>
+<formmail-url></formmail-url>
+<email></email>
+<name-please>Molimo, unesite svoje ime:</name-please>
+<user-string-1>one</user-string-1>
+<user-string-2>two</user-string-2>
+<user-string-3>three</user-string-3>
+<header-code></header-code>
+<correct-first-time>To&amp;#x010D;no rije&amp;#x0161;ena pitanja u prvom poku&amp;#x0161;aju su:  </correct-first-time>
+<check-caption>Provjeri</check-caption>
+<ok-caption>OK</ok-caption>
+<next-q-caption>&amp;#x2192; </next-q-caption>
+<last-q-caption>&amp;#x2190;</last-q-caption>
+<hint-caption>Pomo&amp;#x0107;</hint-caption>
+<show-all-questions-caption>Poka&amp;#x017E;i sva pitanja</show-all-questions-caption>
+<show-one-by-one-caption>Poka&amp;#x017E;i pitanja jedno po jedno</show-one-by-one-caption>
+<show-also-correct>0</show-also-correct>
+<process-for-rtl>0</process-for-rtl>
+<include-scorm-12>0</include-scorm-12>
+</global>
+</hotpot-config-file>
+</hotpot-jquiz-file>
